@@ -102,7 +102,7 @@ local packs = {
 	"kyazdani42/nvim-web-devicons", -- file tree
 	"majutsushi/tagbar", -- taglist panel
 }
-require("simpoir.packman").setup(packs)
+require("mmleroux.packman").setup(packs)
 
 -- compat
 opt.shell = "/bin/bash"
@@ -110,7 +110,7 @@ opt.shell = "/bin/bash"
 ----------------------------------------
 -- Look and feel
 ----------------------------------------
-require("simpoir.ui").setup({
+require("mmleroux.ui").setup({
 	theme = "molokai",
 })
 

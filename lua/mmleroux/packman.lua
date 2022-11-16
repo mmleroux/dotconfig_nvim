@@ -9,7 +9,7 @@ local M = {}
 
 local install_path = vim.fn.stdpath("config") .. "/site/"
 vim.opt.packpath:append(install_path)
-local packs_dir = "pack/simpoir/opt/"
+local packs_dir = "pack/mmleroux/opt/"
 local breadcrumbs = vim.fn.readdir(install_path .. packs_dir)
 
 ----------------------------------------
@@ -35,7 +35,7 @@ function M.setup(packs)
     end
     if #(vim.fn.readdir(abs_pack_dir)) == 0 then
       print("[", i, "/", #packs, "] Pulling submodule pack for", p)
-      vim.fn.system({ "git", "-C", vim.fn.stdpath("config"), "submodule", "update", "--init", "site/pack/simpoir/opt/" .. p })
+      vim.fn.system({ "git", "-C", vim.fn.stdpath("config"), "submodule", "update", "--init", "site/pack/mmleroux/opt/" .. p })
     end
     if not has_errors then vim.cmd("redrawstatus") end
     print("loading pack", p)
