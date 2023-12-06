@@ -24,3 +24,5 @@ amd64
 unix
 json
 sha256
+init
+virtualization

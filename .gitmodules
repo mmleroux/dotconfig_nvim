@@ -1,189 +1,132 @@
-[submodule "site/pack/simpoir/opt/deb.vim"]
-	path = site/pack/simpoir/opt/deb.vim
-	url = https://github.com/knatsakis/deb.vim
-[submodule "site/pack/simpoir/opt/nvim-lspconfig"]
-	path = site/pack/simpoir/opt/nvim-lspconfig
-	url = https://github.com/neovim/nvim-lspconfig
-[submodule "site/pack/simpoir/opt/patchreview-vim"]
-	path = site/pack/simpoir/opt/patchreview-vim
-	url = https://github.com/junkblocker/patchreview-vim
-[submodule "site/pack/simpoir/opt/salt-vim"]
-	path = site/pack/simpoir/opt/salt-vim
-	url = https://github.com/saltstack/salt-vim
-[submodule "site/pack/simpoir/opt/todo.txt-vim"]
-	path = site/pack/simpoir/opt/todo.txt-vim
-	url = https://github.com/dbeniamine/todo.txt-vim
-[submodule "site/pack/simpoir/opt/undotree"]
-	path = site/pack/simpoir/opt/undotree
-	url = https://github.com/mbbill/undotree
+[submodule "site/pack/simpoir/opt/vim-colorschemes"]
+	path = site/pack/simpoir/opt/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes
 [submodule "site/pack/simpoir/opt/vim-airline"]
 	path = site/pack/simpoir/opt/vim-airline
 	url = https://github.com/vim-airline/vim-airline
 [submodule "site/pack/simpoir/opt/vim-airline-themes"]
 	path = site/pack/simpoir/opt/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
-[submodule "site/pack/simpoir/opt/vim-colorschemes"]
-	path = site/pack/simpoir/opt/vim-colorschemes
-	url = https://github.com/flazz/vim-colorschemes
-[submodule "site/pack/simpoir/opt/vim-commentary"]
-	path = site/pack/simpoir/opt/vim-commentary
-	url = https://github.com/tpope/vim-commentary
-[submodule "site/pack/simpoir/opt/vim-eighties"]
-	path = site/pack/simpoir/opt/vim-eighties
-	url = https://github.com/justincampbell/vim-eighties
-[submodule "site/pack/simpoir/opt/vim-fetch"]
-	path = site/pack/simpoir/opt/vim-fetch
-	url = https://github.com/kopischke/vim-fetch
-[submodule "site/pack/simpoir/opt/vim-fish"]
-	path = site/pack/simpoir/opt/vim-fish
-	url = https://github.com/dag/vim-fish
-[submodule "site/pack/simpoir/opt/vim-grepper"]
-	path = site/pack/simpoir/opt/vim-grepper
-	url = https://github.com/mhinz/vim-grepper
-[submodule "site/pack/simpoir/opt/vim-isort"]
-	path = site/pack/simpoir/opt/vim-isort
-	url = https://github.com/fisadev/vim-isort
-[submodule "site/pack/simpoir/opt/Vim-Jinja2-Syntax"]
-	path = site/pack/simpoir/opt/Vim-Jinja2-Syntax
-	url = https://github.com/Glench/Vim-Jinja2-Syntax
-[submodule "site/pack/simpoir/opt/vim-jsx-pretty"]
-	path = site/pack/simpoir/opt/vim-jsx-pretty
-	url = https://github.com/maxmellon/vim-jsx-pretty
-[submodule "site/pack/simpoir/opt/vim-localvimrc"]
-	path = site/pack/simpoir/opt/vim-localvimrc
-	url = https://github.com/embear/vim-localvimrc
-[submodule "site/pack/simpoir/opt/vim-move"]
-	path = site/pack/simpoir/opt/vim-move
-	url = https://github.com/matze/vim-move
-[submodule "site/pack/simpoir/opt/vim-obsession"]
-	path = site/pack/simpoir/opt/vim-obsession
-	url = https://github.com/tpope/vim-obsession
-[submodule "site/pack/simpoir/opt/vim-rooter"]
-	path = site/pack/simpoir/opt/vim-rooter
-	url = https://github.com/airblade/vim-rooter
 [submodule "site/pack/simpoir/opt/vim-signify"]
 	path = site/pack/simpoir/opt/vim-signify
 	url = https://github.com/mhinz/vim-signify
-[submodule "site/pack/simpoir/opt/vim-sleuth"]
-	path = site/pack/simpoir/opt/vim-sleuth
-	url = https://github.com/tpope/vim-sleuth
-[submodule "site/pack/simpoir/opt/vim-startify"]
-	path = site/pack/simpoir/opt/vim-startify
-	url = https://github.com/mhinz/vim-startify
-[submodule "site/pack/simpoir/opt/vim-surround"]
-	path = site/pack/simpoir/opt/vim-surround
-	url = https://github.com/tpope/vim-surround
-[submodule "site/pack/simpoir/opt/vim-test"]
-	path = site/pack/simpoir/opt/vim-test
-	url = https://github.com/janko-m/vim-test
 [submodule "site/pack/simpoir/opt/vim-which-key"]
 	path = site/pack/simpoir/opt/vim-which-key
 	url = https://github.com/liuchengxu/vim-which-key
-[submodule "site/pack/simpoir/opt/black"]
-	path = site/pack/simpoir/opt/black
-	url = https://github.com/psf/black
-[submodule "site/pack/simpoir/opt/fzf"]
-	path = site/pack/simpoir/opt/fzf
-	url = https://github.com/junegunn/fzf
-[submodule "site/pack/simpoir/opt/fzf.vim"]
-	path = site/pack/simpoir/opt/fzf.vim
-	url = https://github.com/junegunn/fzf.vim
-[submodule "site/pack/simpoir/opt/trouble.nvim"]
-	path = site/pack/simpoir/opt/trouble.nvim
-	url = https://github.com/folke/trouble.nvim
-[submodule "site/pack/simpoir/opt/nvim-web-devicons"]
-	path = site/pack/simpoir/opt/nvim-web-devicons
-	url = https://github.com/kyazdani42/nvim-web-devicons
-[submodule "site/pack/simpoir/opt/lsp_signature"]
-	path = site/pack/simpoir/opt/lsp_signature.nvim
-	url = https://github.com/ray-x/lsp_signature.nvim
-[submodule "site/pack/simpoir/opt/tagbar"]
-	path = site/pack/simpoir/opt/tagbar
-	url = https://github.com/majutsushi/tagbar
-[submodule "site/pack/simpoir/opt/lsp_signature.nvim"]
-	path = site/pack/simpoir/opt/lsp_signature.nvim
-	url = https://github.com/ray-x/lsp_signature.nvim
-[submodule "site/pack/simpoir/opt/vim-fugitive"]
-	path = site/pack/simpoir/opt/vim-fugitive
-	url = https://github.com/tpope/vim-fugitive
-[submodule "site/pack/simpoir/opt/vim-python-indent-black"]
-	path = site/pack/simpoir/opt/vim-python-indent-black
-	url = https://github.com/jeetsukumaran/vim-python-indent-black
-[submodule "site/pack/simpoir/opt/nvim-autopairs"]
-	path = site/pack/simpoir/opt/nvim-autopairs
-	url = https://github.com/windwp/nvim-autopairs
-[submodule "site/pack/simpoir/opt/NeoDebug"]
-	path = site/pack/simpoir/opt/NeoDebug
-	url = https://github.com/wordijp/NeoDebug
-[submodule "site/pack/simpoir/opt/nvim-dap"]
-	path = site/pack/simpoir/opt/nvim-dap
-	url = https://github.com/mfussenegger/nvim-dap
-[submodule "site/pack/simpoir/opt/nvim-treesitter"]
-	path = site/pack/simpoir/opt/nvim-treesitter
-	url = https://github.com/nvim-treesitter/nvim-treesitter
-[submodule "site/pack/simpoir/opt/nvim-treesitter-pairs"]
-	path = site/pack/simpoir/opt/nvim-treesitter-pairs
-	url = https://github.com/theHamsta/nvim-treesitter-pairs
-[submodule "site/pack/simpoir/opt/nvim-treesitter-textobjects"]
-	path = site/pack/simpoir/opt/nvim-treesitter-textobjects
-	url = https://github.com/nvim-treesitter/nvim-treesitter-textobjects
-[submodule "site/pack/simpoir/opt/nvim-tree.lua"]
-	path = site/pack/simpoir/opt/nvim-tree.lua
-	url = https://github.com/kyazdani42/nvim-tree.lua
-[submodule "site/pack/simpoir/opt/jqno-extractvariable.vim"]
-	path = site/pack/simpoir/opt/jqno-extractvariable.vim
-	url = https://github.com/jqno/jqno-extractvariable.vim
-[submodule "site/pack/simpoir/opt/cmp-nvim-lsp"]
-	path = site/pack/simpoir/opt/cmp-nvim-lsp
-	url = https://github.com/hrsh7th/cmp-nvim-lsp
-[submodule "site/pack/simpoir/opt/nvim-cmp"]
-	path = site/pack/simpoir/opt/nvim-cmp
-	url = https://github.com/hrsh7th/nvim-cmp
-[submodule "site/pack/simpoir/opt/cmp-path"]
-	path = site/pack/simpoir/opt/cmp-path
-	url = https://github.com/hrsh7th/cmp-path
-[submodule "site/pack/simpoir/opt/cmp-buffer"]
-	path = site/pack/simpoir/opt/cmp-buffer
-	url = https://github.com/hrsh7th/cmp-buffer
-[submodule "site/pack/simpoir/opt/cmp-cmdline"]
-	path = site/pack/simpoir/opt/cmp-cmdline
-	url = https://github.com/hrsh7th/cmp-cmdline
-[submodule "site/pack/simpoir/opt/cmp-vsnip"]
-	path = site/pack/simpoir/opt/cmp-vsnip
-	url = https://github.com/hrsh7th/cmp-vsnip
-[submodule "site/pack/simpoir/opt/vim-vsnip"]
-	path = site/pack/simpoir/opt/vim-vsnip
-	url = https://github.com/hrsh7th/vim-vsnip
+[submodule "site/pack/simpoir/opt/vim-eighties"]
+	path = site/pack/simpoir/opt/vim-eighties
+	url = https://github.com/justincampbell/vim-eighties
+[submodule "site/pack/simpoir/opt/indentLine"]
+	path = site/pack/simpoir/opt/indentLine
+	url = https://github.com/yggdroot/indentLine
+[submodule "site/pack/simpoir/opt/ex-showmarks"]
+	path = site/pack/simpoir/opt/ex-showmarks
+	url = https://github.com/exvim/ex-showmarks
 [submodule "site/pack/simpoir/opt/mason.nvim"]
 	path = site/pack/simpoir/opt/mason.nvim
 	url = https://github.com/williamboman/mason.nvim
 [submodule "site/pack/simpoir/opt/mason-lspconfig.nvim"]
 	path = site/pack/simpoir/opt/mason-lspconfig.nvim
 	url = https://github.com/williamboman/mason-lspconfig.nvim
-[submodule "site/pack/simpoir/opt/null-ls.nvim"]
-	path = site/pack/simpoir/opt/null-ls.nvim
-	url = https://github.com/jose-elias-alvarez/null-ls.nvim
+[submodule "site/pack/simpoir/opt/nvim-lspconfig"]
+	path = site/pack/simpoir/opt/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "site/pack/simpoir/opt/nvim-dap"]
+	path = site/pack/simpoir/opt/nvim-dap
+	url = https://github.com/mfussenegger/nvim-dap
+[submodule "site/pack/simpoir/opt/nvim-dap-virtual-text"]
+	path = site/pack/simpoir/opt/nvim-dap-virtual-text
+	url = https://github.com/theHamsta/nvim-dap-virtual-text
 [submodule "site/pack/simpoir/opt/plenary.nvim"]
 	path = site/pack/simpoir/opt/plenary.nvim
 	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "site/pack/simpoir/opt/null-ls.nvim"]
+	path = site/pack/simpoir/opt/null-ls.nvim
+	url = https://github.com/jose-elias-alvarez/null-ls.nvim
+[submodule "site/pack/simpoir/opt/jinja.vim"]
+	path = site/pack/simpoir/opt/jinja.vim
+	url = https://github.com/HiPhish/jinja.vim
+[submodule "site/pack/simpoir/opt/alpha-nvim"]
+	path = site/pack/simpoir/opt/alpha-nvim
+	url = https://github.com/goolord/alpha-nvim
+[submodule "site/pack/simpoir/opt/vim-localvimrc"]
+	path = site/pack/simpoir/opt/vim-localvimrc
+	url = https://github.com/embear/vim-localvimrc
+[submodule "site/pack/simpoir/opt/vim-test"]
+	path = site/pack/simpoir/opt/vim-test
+	url = https://github.com/janko-m/vim-test
+[submodule "site/pack/simpoir/opt/lsp_signature.nvim"]
+	path = site/pack/simpoir/opt/lsp_signature.nvim
+	url = https://github.com/ray-x/lsp_signature.nvim
+[submodule "site/pack/simpoir/opt/deb.vim"]
+	path = site/pack/simpoir/opt/deb.vim
+	url = https://github.com/knatsakis/deb.vim
+[submodule "site/pack/simpoir/opt/todo.txt-vim"]
+	path = site/pack/simpoir/opt/todo.txt-vim
+	url = https://github.com/dbeniamine/todo.txt-vim
+[submodule "site/pack/simpoir/opt/trouble.nvim"]
+	path = site/pack/simpoir/opt/trouble.nvim
+	url = https://github.com/folke/trouble.nvim
+[submodule "site/pack/simpoir/opt/nvim-treesitter"]
+	path = site/pack/simpoir/opt/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
+[submodule "site/pack/simpoir/opt/nvim-treesitter-textobjects"]
+	path = site/pack/simpoir/opt/nvim-treesitter-textobjects
+	url = https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+[submodule "site/pack/simpoir/opt/nvim-ts-autotag"]
+	path = site/pack/simpoir/opt/nvim-ts-autotag
+	url = https://github.com/windwp/nvim-ts-autotag
+[submodule "site/pack/simpoir/opt/vim-sleuth"]
+	path = site/pack/simpoir/opt/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth
+[submodule "site/pack/simpoir/opt/vim-move"]
+	path = site/pack/simpoir/opt/vim-move
+	url = https://github.com/matze/vim-move
+[submodule "site/pack/simpoir/opt/jqno-extractvariable.vim"]
+	path = site/pack/simpoir/opt/jqno-extractvariable.vim
+	url = https://github.com/jqno/jqno-extractvariable.vim
+[submodule "site/pack/simpoir/opt/vim-surround"]
+	path = site/pack/simpoir/opt/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "site/pack/simpoir/opt/vim-commentary"]
+	path = site/pack/simpoir/opt/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "site/pack/simpoir/opt/nvim-autopairs"]
+	path = site/pack/simpoir/opt/nvim-autopairs
+	url = https://github.com/windwp/nvim-autopairs
 [submodule "site/pack/simpoir/opt/telescope.nvim"]
 	path = site/pack/simpoir/opt/telescope.nvim
 	url = https://github.com/nvim-telescope/telescope.nvim
-[submodule "site/pack/simpoir/opt/pear-tree"]
-	path = site/pack/simpoir/opt/pear-tree
-	url = https://github.com/tmsvg/pear-tree
-[submodule "site/pack/simpoir/opt/tabout.nvim"]
-	path = site/pack/simpoir/opt/tabout.nvim
-	url = https://github.com/abecodes/tabout.nvim
-[submodule "site/pack/simpoir/opt/LuaSnip"]
-	path = site/pack/simpoir/opt/LuaSnip
-	url = https://github.com/L3MON4D3/LuaSnip
-[submodule "site/pack/simpoir/opt/cmp_luasnip"]
-	path = site/pack/simpoir/opt/cmp_luasnip
-	url = https://github.com/saadparwaiz1/cmp_luasnip
-[submodule "site/pack/simpoir/opt/vim-matchup"]
-	path = site/pack/simpoir/opt/vim-matchup
-	url = https://github.com/andymass/vim-matchup
-[submodule "site/pack/simpoir/opt/indentLine"]
-	path = site/pack/simpoir/opt/indentLine
-	url = https://github.com/yggdroot/indentLine
+[submodule "site/pack/simpoir/opt/vim-obsession"]
+	path = site/pack/simpoir/opt/vim-obsession
+	url = https://github.com/tpope/vim-obsession
+[submodule "site/pack/simpoir/opt/vim-fugitive"]
+	path = site/pack/simpoir/opt/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "site/pack/simpoir/opt/vim-grepper"]
+	path = site/pack/simpoir/opt/vim-grepper
+	url = https://github.com/mhinz/vim-grepper
+[submodule "site/pack/simpoir/opt/vim-rooter"]
+	path = site/pack/simpoir/opt/vim-rooter
+	url = https://github.com/airblade/vim-rooter
+[submodule "site/pack/simpoir/opt/patchreview-vim"]
+	path = site/pack/simpoir/opt/patchreview-vim
+	url = https://github.com/junkblocker/patchreview-vim
+[submodule "site/pack/simpoir/opt/undotree"]
+	path = site/pack/simpoir/opt/undotree
+	url = https://github.com/mbbill/undotree
+[submodule "site/pack/simpoir/opt/vim-fetch"]
+	path = site/pack/simpoir/opt/vim-fetch
+	url = https://github.com/kopischke/vim-fetch
+[submodule "site/pack/simpoir/opt/nvim-tree.lua"]
+	path = site/pack/simpoir/opt/nvim-tree.lua
+	url = https://github.com/kyazdani42/nvim-tree.lua
+[submodule "site/pack/simpoir/opt/tagbar"]
+	path = site/pack/simpoir/opt/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "site/pack/simpoir/opt/vim-cool"]
+	path = site/pack/simpoir/opt/vim-cool
+	url = https://github.com/romainl/vim-cool
+[submodule "site/pack/simpoir/opt/firenvim"]
+	path = site/pack/simpoir/opt/firenvim
+	url = https://github.com/glacambre/firenvim
