@@ -101,7 +101,7 @@ local packs = {
 		end,
 	}, -- embed into browser
 }
-require("simpoir.packman").setup(packs)
+require("mmleroux.packman").setup(packs)
 
 -- compat
 opt.shell = "/bin/bash"
@@ -120,7 +120,7 @@ opt.autochdir = false
 g.startify_change_to_dir = false
 
 opt.scrolloff = 5 -- scroll margin
-require("simpoir.ui").setup({
+require("mmleroux.ui").setup({
 	theme = "monokai-phoenix",
 })
 -- Override all themes to make cursor visible (blink) in paren matching
